@@ -14,7 +14,7 @@
     <a title="Hits" target="_blank" href="https://github.com/Hiroenzo/Hiroenzo">
         <img src="https://img.shields.io/github/followers/Hiroenzo?logo=github&style=for-the-badge" >
     </a>
-    <a title="twitter" href="https://twitter.com/h₂o" target="blank">
+    <a title="twitter" href="https://twitter.com/kyrie_chung" target="blank">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kyrie_chung?logo=twitter&style=for-the-badge">
     </a>
 </p>
