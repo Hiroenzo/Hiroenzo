@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/github/followers/Hiroenzo?logo=github&style=for-the-badge" >
     </a>
     <a title="twitter" href="https://twitter.com/h₂o" target="blank">
-        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/h%E2%82%82o?color=blue&logo=twitter&style=for-the-badge">
+        <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kyrie_chung?logo=twitter&style=for-the-badge">
     </a>
 </p>
 <p align="center">
