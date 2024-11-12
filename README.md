@@ -20,7 +20,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hiroenzo" alt="hiroenzo" />
+        <img src="https://github-profile-trophy.vercel.app/?username=hiroenzo&title=-Reviews" alt="hiroenzo" />
     </a>
 </p>
 <div align="center">
