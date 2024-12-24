@@ -37,15 +37,6 @@
 
 <br>
 
-- 🔭 I’m currently working on [react-native-split-screen](https://github.com/Hiroenzo/react-native-split-screen) and [react-native-ali-cloud-push](https://github.com/Hiroenzo/react-native-ali-cloud-push)
-
-<div align="center">
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroenzo&repo=react-native-split-screen&theme=dark" />
-    <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Hiroenzo&repo=react-native-ali-cloud-push&theme=dark" />
-</div>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Hiroenzo](https://github.com/Hiroenzo)
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
